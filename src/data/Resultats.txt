@@ -1,0 +1,6 @@
+Liste simplement chainee
+Insert: 82ms
+Delete: 26ms
+Search: 81ms
+
+
